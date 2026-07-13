@@ -1,25 +1,47 @@
 # Dev Upadhyay — Resume
 
-A snapshot of my work, projects, and experience as a Computer Science undergraduate focused on software development and machine learning.
+Vadodara, Gujarat, India
+dev.upadhyay2728@gmail.com | +91 9023879099
+[LinkedIn](https://linkedin.com/in/dev-upadhyay-vit7) · [GitHub](https://github.com/devaskswhy) · [Codolio](https://codolio.com/profile/JaWGRiM) · [LeetCode](https://leetcode.com/devaskswhy)
 
-## 📄 Resume
+CS undergrad @ VIT Bhopal, focused on full-stack SDE roles with AI/ML and product-strategy experience on the side.
 
-[Download Resume](https://github.com/devaskswhy/Dev_Upadhyay_Resume/raw/main/dev-upadhyay-resume.pdf)
+---
 
-## 👨‍💻 About Me
+## Files
 
-I’m a B.Tech Computer Science student at VIT Bhopal with a strong focus on problem solving and building practical systems.
+| File | Description |
+|---|---|
+| `dev_resume_v3.tex` | Latest LaTeX source (Jake Gutierrez template, Overleaf) |
+| `dev_resume.pdf` | Compiled, ATS-optimized PDF |
 
-My key areas of interest:
+## Education
 
-* Data Structures & Algorithms
-* Full-stack Web Development
-* Machine Learning
+**Vellore Institute of Technology, Bhopal** — B.Tech Computer Science (Core)
+08/2023 – 2027 | CGPA: 8.6/10.0
 
-I enjoy turning ideas into working products and continuously improving my fundamentals.
+## Experience
 
-## 📫 Contact
+- **AI Product & Strategy Intern**, CovisionAI (07/2026 – Present) — prompt engineering on Zalora fashion catalog images, cross-functional team of 7
+- **SDE Intern**, L&T Technology Services (05/2026 – 07/2026) — React.js + .NET, SQL Server, 3 production features
 
-* Email: [dev.upadhyay2728@gmail.com](mailto:dev.upadhyay2728@gmail.com)
+## Featured Projects
 
+- **[SevaMitra](https://github.com/devaskswhy/SevaMitra)** — real-time volunteer management platform for Mahakumbh 2025, 10,000+ volunteers across 20+ zones; Next.js, Node/Express/Prisma, Socket.io, Redis, Docker; SevaSahayak AI chatbot (Groq LLaMA). 23rd/400+ at Expert Hire Mahakumbh Hackathon.
+- **[PacketPulse](https://github.com/devaskswhy/packetpulse7-dashboard7)** — distributed deep packet inspection system, 10,000+ packets/sec via Kafka + C++ capture engine + Python analysis workers; PostgreSQL/Redis sub-50ms queries; Groq-powered anomaly summarization.
 
+## Certifications
+
+- AWS Certified Solutions Architect – Associate (SAA-C03), May 2026
+- Google IT Support Professional Certificate, Jan 2026
+- Oracle Certified AI Foundations Associate, Oct 2025
+
+## Achievements
+
+- 600+ DSA problems solved (LeetCode, CodeChef, Codeforces) · LeetCode rating 1359
+- GirlScript Summer of Code 2024 contributor
+- Technical Team Member, CISCO Community
+
+---
+
+Latest resume PDF is always the one linked at the top — check commit history for version notes.
