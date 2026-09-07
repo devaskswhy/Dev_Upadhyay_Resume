@@ -12,8 +12,7 @@ CS undergrad @ VIT Bhopal, focused on full-stack SDE roles with AI/ML and produc
 
 | File | Description |
 |---|---|
-| `dev_resume_v3.tex` | Latest LaTeX source (Jake Gutierrez template, Overleaf) |
-| `dev_resume.pdf` | Compiled, ATS-optimized PDF |
+| `dev_resume_current.pdf` | Latest compiled, ATS-optimized resume PDF |
 
 ## Education
 
